@@ -43,6 +43,7 @@ Getting Started
 ::
 
    $ python manage.py createftpuseraccount <username> my-ftp-group
+   #系统找不到文件
 
 ``<username>`` is the django authentication username.
 
