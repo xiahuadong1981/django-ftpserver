@@ -4,7 +4,7 @@ Django FTP server
 
 |build-status| |pypi| |docs|
 
-发现，就是用Django中的来创建一个FTP服务器，官方也没有详细的教程，不知道怎么使用。
+发现，就是用Django中的来创建一个FTP服务器，没有客户端，让自己连，官方也没有详细的教程，不知道怎么使用。
 
 FTP server application that used user authentication of Django.
 
